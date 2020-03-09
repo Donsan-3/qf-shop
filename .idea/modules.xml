@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/qf-shop.iml" filepath="$PROJECT_DIR$/.idea/qf-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-api/qf-shop-api.iml" filepath="$PROJECT_DIR$/qf-shop-api/qf-shop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-basic/qf-shop-basic.iml" filepath="$PROJECT_DIR$/qf-shop-basic/qf-shop-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-web/qf-shop-cart/qf-shop-cart.iml" filepath="$PROJECT_DIR$/qf-shop-web/qf-shop-cart/qf-shop-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-api/qf-shop-cart-api/qf-shop-cart-api.iml" filepath="$PROJECT_DIR$/qf-shop-api/qf-shop-cart-api/qf-shop-cart-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-service/qf-shop-cart-service/qf-shop-cart-service.iml" filepath="$PROJECT_DIR$/qf-shop-service/qf-shop-cart-service/qf-shop-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-basic/qf-shop-common/qf-shop-common.iml" filepath="$PROJECT_DIR$/qf-shop-basic/qf-shop-common/qf-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-service/qf-shop-email-service/qf-shop-email-service.iml" filepath="$PROJECT_DIR$/qf-shop-service/qf-shop-email-service/qf-shop-email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-basic/qf-shop-entity/qf-shop-entity.iml" filepath="$PROJECT_DIR$/qf-shop-basic/qf-shop-entity/qf-shop-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-web/qf-shop-index/qf-shop-index.iml" filepath="$PROJECT_DIR$/qf-shop-web/qf-shop-index/qf-shop-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-service/qf-shop-index-service/qf-shop-index-service.iml" filepath="$PROJECT_DIR$/qf-shop-service/qf-shop-index-service/qf-shop-index-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-basic/qf-shop-mapper/qf-shop-mapper.iml" filepath="$PROJECT_DIR$/qf-shop-basic/qf-shop-mapper/qf-shop-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-web/qf-shop-product/qf-shop-product.iml" filepath="$PROJECT_DIR$/qf-shop-web/qf-shop-product/qf-shop-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-api/qf-shop-product-api/qf-shop-product-api.iml" filepath="$PROJECT_DIR$/qf-shop-api/qf-shop-product-api/qf-shop-product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-service/qf-shop-product-service/qf-shop-product-service.iml" filepath="$PROJECT_DIR$/qf-shop-service/qf-shop-product-service/qf-shop-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-api/qf-shop-product-type-api/qf-shop-product-type-api.iml" filepath="$PROJECT_DIR$/qf-shop-api/qf-shop-product-type-api/qf-shop-product-type-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-api/qf-shop-resources-api/qf-shop-resources-api.iml" filepath="$PROJECT_DIR$/qf-shop-api/qf-shop-resources-api/qf-shop-resources-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-web/qf-shop-search/qf-shop-search.iml" filepath="$PROJECT_DIR$/qf-shop-web/qf-shop-search/qf-shop-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-api/qf-shop-search-api/qf-shop-search-api.iml" filepath="$PROJECT_DIR$/qf-shop-api/qf-shop-search-api/qf-shop-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-service/qf-shop-search-service/qf-shop-search-service.iml" filepath="$PROJECT_DIR$/qf-shop-service/qf-shop-search-service/qf-shop-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-service/qf-shop-service.iml" filepath="$PROJECT_DIR$/qf-shop-service/qf-shop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-service/qf-shop-sms-service/qf-shop-sms-service.iml" filepath="$PROJECT_DIR$/qf-shop-service/qf-shop-sms-service/qf-shop-sms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-web/qf-shop-sso/qf-shop-sso.iml" filepath="$PROJECT_DIR$/qf-shop-web/qf-shop-sso/qf-shop-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-service/qf-shop-staticresources-service/qf-shop-staticresources-service.iml" filepath="$PROJECT_DIR$/qf-shop-service/qf-shop-staticresources-service/qf-shop-staticresources-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-api/qf-shop-user-api/qf-shop-user-api.iml" filepath="$PROJECT_DIR$/qf-shop-api/qf-shop-user-api/qf-shop-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-service/qf-shop-user-service/qf-shop-user-service.iml" filepath="$PROJECT_DIR$/qf-shop-service/qf-shop-user-service/qf-shop-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qf-shop-web/qf-shop-web.iml" filepath="$PROJECT_DIR$/qf-shop-web/qf-shop-web.iml" />
+    </modules>
+  </component>
+</project>
