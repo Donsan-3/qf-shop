@@ -12,6 +12,7 @@
         <module name="qf-shop-common" />
         <module name="qf-shop-email-service" />
         <module name="qf-shop-entity" />
+        <module name="qf-shop-eureka-server" />
         <module name="qf-shop-index" />
         <module name="qf-shop-index-service" />
         <module name="qf-shop-mapper" />
@@ -33,32 +34,33 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="qf-shop-api" target="1.8" />
-      <module name="qf-shop-basic" target="1.8" />
+      <module name="qf-shop-api" target="1.5" />
+      <module name="qf-shop-basic" target="1.5" />
       <module name="qf-shop-cart" target="1.8" />
-      <module name="qf-shop-cart-api" target="1.8" />
+      <module name="qf-shop-cart-api" target="1.5" />
       <module name="qf-shop-cart-service" target="1.8" />
-      <module name="qf-shop-common" target="1.8" />
+      <module name="qf-shop-common" target="1.5" />
       <module name="qf-shop-email-service" target="1.8" />
-      <module name="qf-shop-entity" target="1.8" />
+      <module name="qf-shop-entity" target="1.5" />
+      <module name="qf-shop-eureka-server" target="1.8" />
       <module name="qf-shop-index" target="1.8" />
       <module name="qf-shop-index-service" target="1.8" />
-      <module name="qf-shop-mapper" target="1.8" />
+      <module name="qf-shop-mapper" target="1.5" />
       <module name="qf-shop-product" target="1.8" />
-      <module name="qf-shop-product-api" target="1.8" />
+      <module name="qf-shop-product-api" target="1.5" />
       <module name="qf-shop-product-service" target="1.8" />
-      <module name="qf-shop-product-type-api" target="1.8" />
-      <module name="qf-shop-resources-api" target="1.8" />
+      <module name="qf-shop-product-type-api" target="1.5" />
+      <module name="qf-shop-resources-api" target="1.5" />
       <module name="qf-shop-search" target="1.8" />
-      <module name="qf-shop-search-api" target="1.8" />
+      <module name="qf-shop-search-api" target="1.5" />
       <module name="qf-shop-search-service" target="1.8" />
-      <module name="qf-shop-service" target="1.8" />
+      <module name="qf-shop-service" target="1.5" />
       <module name="qf-shop-sms-service" target="1.8" />
       <module name="qf-shop-sso" target="1.8" />
       <module name="qf-shop-staticresources-service" target="1.8" />
-      <module name="qf-shop-user-api" target="1.8" />
+      <module name="qf-shop-user-api" target="1.5" />
       <module name="qf-shop-user-service" target="1.8" />
-      <module name="qf-shop-web" target="1.8" />
+      <module name="qf-shop-web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

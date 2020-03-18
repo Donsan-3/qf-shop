@@ -8,21 +8,22 @@
       <list>
         <option value="$PROJECT_DIR$/qf-shop-api/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-basic/pom.xml" />
-        <option value="$PROJECT_DIR$/qf-shop-service/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-web/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-service/qf-shop-email-service/pom.xml" />
-        <option value="$PROJECT_DIR$/qf-shop-service/qf-shop-cart-service/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-service/qf-shop-index-service/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-service/qf-shop-product-service/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-service/qf-shop-search-service/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-service/qf-shop-sms-service/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-service/qf-shop-staticresources-service/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-service/qf-shop-user-service/pom.xml" />
-        <option value="$PROJECT_DIR$/qf-shop-web/qf-shop-cart/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-web/qf-shop-index/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-web/qf-shop-product/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-web/qf-shop-search/pom.xml" />
         <option value="$PROJECT_DIR$/qf-shop-web/qf-shop-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-shop-service/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-shop-service/qf-shop-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-shop-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/qf-shop-web/qf-shop-cart/pom.xml" />
       </list>
     </option>
   </component>
